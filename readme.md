@@ -1,4 +1,3 @@
-```markdown
 # Air Quality Index Prediction
 
 ## Introduction
