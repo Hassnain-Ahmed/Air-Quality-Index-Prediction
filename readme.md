@@ -24,9 +24,6 @@ Our approach involves several key steps:
 ## Results
 Through this project, I learned a lot about data science, machine learning, and air quality prediction. The results included accurate AQI predictions and graphical visualizations of the data, which were displayed on a responsive front-end interface.
 
-![Project Screenshot]("path/to/screenshot1.png")
-![Model Performance]("path/to/screenshot2.png")
-
 ## Conclusion
 This project aims to provide a reliable and accurate AQI prediction model that can assist in effective air quality management. By utilizing advanced data science techniques, we hope to deliver actionable insights that can help mitigate the adverse effects of air pollution on public health and the environment.
 
@@ -38,9 +35,9 @@ Future enhancements could include:
 - Enhancing the user interface for better accessibility and usability.
 
 ## Screenshots
-- [Interface](https://i.imgur.com/BC4zn0k.png)
-- [Predicted Table 1](https://i.imgur.com/row3SZG.png)
-- [Predicted Table 1 Cont](https://i.imgur.com/pyFta1p.png)
+- ![Interface](https://i.imgur.com/BC4zn0k.png)
+- ![Predicted Table 1](https://i.imgur.com/row3SZG.png)
+- ![Predicted Table 1 Cont](https://i.imgur.com/pyFta1p.png)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
