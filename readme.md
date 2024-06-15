@@ -24,8 +24,8 @@ Our approach involves several key steps:
 ## Results
 Through this project, I learned a lot about data science, machine learning, and air quality prediction. The results included accurate AQI predictions and graphical visualizations of the data, which were displayed on a responsive front-end interface.
 
-![Project Screenshot](path/to/screenshot1.png)
-![Model Performance](path/to/screenshot2.png)
+![Project Screenshot]("path/to/screenshot1.png")
+![Model Performance]("path/to/screenshot2.png")
 
 ## Conclusion
 This project aims to provide a reliable and accurate AQI prediction model that can assist in effective air quality management. By utilizing advanced data science techniques, we hope to deliver actionable insights that can help mitigate the adverse effects of air pollution on public health and the environment.
